@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 
 
 ![CALCULATOR](assets/calculator01.png)
